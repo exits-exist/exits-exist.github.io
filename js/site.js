@@ -17,7 +17,7 @@ jQuery(function ($) {
     if (supportsAudio) {
         var index = 0,
             playing = false;
-        mediaPath = '/anaklusmos/exits-band-page/media/',
+        mediaPath = '/media/',
         extension = '',
         tracks = [{
             "track": 1,
